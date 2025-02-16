@@ -360,7 +360,8 @@ Here is a **hardware schematic**  for connecting an **ESP32**  to a **32x64 HUB7
 - 5V power supply for the LED matrix with ground connected to ESP32.
 - Clean, readable layout with wire connections.
 
-The diagram should be in a technical schematic style.](https://files.oaiusercontent.com/file-9quXQk4QCQeMbUbCdwzWfQ?se=2025-02-16T20%3A19%3A16Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D6a68acdf-7ee1-4f4f-a21c-029b85128c40.webp&sig=i5XF8A3MHhR8jjnmAB6n3dRG6DzRCuIp9on8CDi9ik8%3D) 
+The diagram should be in a technical schematic style.]
+![ESP32 connected to a 32x64 HUB75 RGB LED matrix](./esp-32+hub75-schematics.png)
 
 Here is the **schematic diagram**  for connecting an **ESP32 to a 32x64 HUB75 RGB LED matrix** . It includes the ESP32 GPIO connections, HUB75 interface, level shifter (74AHCT245), and a 5V power supply setup.
 Let me know if you need any modifications or additional details! 🚀
