@@ -361,7 +361,7 @@ Here is a **hardware schematic**  for connecting an **ESP32**  to a **32x64 HUB7
 - Clean, readable layout with wire connections.
 
 The diagram should be in a technical schematic style.]
-![ESP32 connected to a 32x64 HUB75 RGB LED matrix](./esp-32+hub75-schematics.png)
 
 Here is the **schematic diagram**  for connecting an **ESP32 to a 32x64 HUB75 RGB LED matrix** . It includes the ESP32 GPIO connections, HUB75 interface, level shifter (74AHCT245), and a 5V power supply setup.
-Let me know if you need any modifications or additional details! 🚀
+
+![ESP32 connected to a 32x64 HUB75 RGB LED matrix](./esp-32+hub75-schematics.png)
